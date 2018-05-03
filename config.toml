@@ -1,4 +1,4 @@
-baseurl = "https://golangph-demo.netlify.com"
+baseurl = "https://golangph-demo.netlify.com/"
 title = "GolangPH"
 theme = "hugo-universal-theme"
 # themesDir = "../.."
